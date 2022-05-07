@@ -4,7 +4,7 @@ In its simplest form, crypto arbitrage trading is the process of buying a digita
 ![image](https://user-images.githubusercontent.com/52835575/167238239-f53123dd-9ac6-48e7-9a5b-da932cebfac1.png)
 
 
-This is a python based crypto arbitrage bot that detect price differences between coinbase and Kucoin exchanges. The bot returns crypto pairs with price differences greater than a set benchmark (14%).
+This is a python based crypto arbitrage bot that detect price differences between Coinbase and Kucoin exchanges. The bot returns crypto pairs with price differences greater than a set benchmark (14%).
 
 An example is shown below:
 

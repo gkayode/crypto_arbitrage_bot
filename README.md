@@ -20,3 +20,17 @@ A few warnings:
     This is so you can transfer crypto across both platforms without a hitch and also to avoid crypto loss.
 - There will be a slight lag when transfering crypto across platforms. This is for network confirmations.
 - Also, both exchanges have both transaction and transfer fees.
+
+### How to get up and running
+
+1. Clone the repository into a project folder.
+
+2. Navigate to the root folder of the repository, then run the following code to install the dependencies.
+    ```Python
+    pip install -r requirements.txt
+    ```
+3. Run the crypto_arbitrage.py file
+    ```Python
+    python crypto_arbitrage
+    ```
+    
